@@ -1,0 +1,22 @@
+export const usersList = [
+    'João',
+    'Pedro',
+    'Guilherme',
+    'Alexandra',
+    'Fabio',
+    'Clarice',
+    'Stephany',
+    'Solange',
+    'Lucas',
+    'Victor',
+    'Sandra',
+    'Cauã',
+    'Mariana',
+    'Bianca',
+    'Martins',
+    'Isabella',
+    'Fernando',
+    'Gilberto',
+    'Teddy',
+    'Carlos'
+];

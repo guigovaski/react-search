@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  text-align: center;
+}
+
+.container input {
+  width: 250px;
+  padding: 10px 5px;
+  border-radius: 5px;
+  border: 1px solid #000;
+  outline: 0;
+}
+
+.container ul {
+  display: inline-block;
+  list-style: none;
+}
+
+.container ul li {
+  padding: 5px;
+  margin: 5px 0;
+  border: 1px solid #333;
+}
